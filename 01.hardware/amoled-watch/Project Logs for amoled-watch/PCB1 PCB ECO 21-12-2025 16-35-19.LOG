@@ -1,0 +1,166 @@
+Added Component: Designator=C1(C0402)
+Added Component: Designator=C2(C0402)
+Added Component: Designator=C3(C0402)
+Added Component: Designator=C4(C0603)
+Added Component: Designator=C5(C0402)
+Added Component: Designator=C6(C0402)
+Added Component: Designator=C7(C0402)
+Added Component: Designator=C8(C0402)
+Added Component: Designator=C9(C0402)
+Added Component: Designator=C10(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=L1(L0402)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4.15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/SLW4030S1R0NST/207399.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance(DCR)"; Value = "18mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1uH ±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sunltech(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,4x4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C206354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SLW4030S1R0NST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±30%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uH"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0402)
+Added Component: Designator=R2(R0402)
+Added Component: Designator=R3(R0402)
+Added Component: Designator=U1(QFN-56_L7.0-W7.0-P0.40-TL-EP4.0)
+Added Component: Designator=U2(ANT-SMD_L3.2-W1.6)
+Added Component: Designator=U3(WSON-8_L6.0-W5.0-P1.27-BL-EP)
+Added Component: Designator=U??(CONN-SMD_24P-P0.40_OK-14GF024-04_2.1INCH)
+Added Component: Designator=X1(OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI)
+Added Pin To Net: NetName=BOOT Pin=R3-1
+Added Pin To Net: NetName=BOOT Pin=U1-5
+Added Net: Name=BOOT
+Added Pin To Net: NetName=EN Pin=C7-2
+Added Pin To Net: NetName=EN Pin=R2-1
+Added Pin To Net: NetName=EN Pin=U1-4
+Added Net: Name=EN
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=U1-57
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U??-1
+Added Pin To Net: NetName=GND Pin=U??-6
+Added Pin To Net: NetName=GND Pin=U??-12
+Added Pin To Net: NetName=GND Pin=U??-25
+Added Pin To Net: NetName=GND Pin=U??-26
+Added Pin To Net: NetName=GND Pin=U??-27
+Added Pin To Net: NetName=GND Pin=U??-28
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=I2C_TP_SCL Pin=U??-7
+Added Net: Name=I2C_TP_SCL
+Added Pin To Net: NetName=I2C_TP_SDA Pin=U??-8
+Added Net: Name=I2C_TP_SDA
+Added Pin To Net: NetName=LCD_CLK Pin=U??-16
+Added Net: Name=LCD_CLK
+Added Pin To Net: NetName=LCD_CS Pin=U??-13
+Added Net: Name=LCD_CS
+Added Pin To Net: NetName=LCD_DATA0 Pin=U??-14
+Added Net: Name=LCD_DATA0
+Added Pin To Net: NetName=LCD_DATA1 Pin=U??-15
+Added Net: Name=LCD_DATA1
+Added Pin To Net: NetName=LCD_DATA2 Pin=U??-18
+Added Net: Name=LCD_DATA2
+Added Pin To Net: NetName=LCD_DATA3 Pin=U??-17
+Added Net: Name=LCD_DATA3
+Added Pin To Net: NetName=LCD_RST Pin=U??-21
+Added Net: Name=LCD_RST
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R1-2
+Added Pin To Net: NetName=NetC2_2 Pin=U2-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=U1-2
+Added Pin To Net: NetName=NetL1_2 Pin=U1-3
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=SPICLK Pin=U1-33
+Added Pin To Net: NetName=SPICLK Pin=U3-6
+Added Net: Name=SPICLK
+Added Pin To Net: NetName=SPICS0 Pin=U1-32
+Added Pin To Net: NetName=SPICS0 Pin=U3-1
+Added Net: Name=SPICS0
+Added Pin To Net: NetName=SPID Pin=U1-35
+Added Pin To Net: NetName=SPID Pin=U3-5
+Added Net: Name=SPID
+Added Pin To Net: NetName=SPIHD Pin=U1-30
+Added Pin To Net: NetName=SPIHD Pin=U3-7
+Added Net: Name=SPIHD
+Added Pin To Net: NetName=SPIQ Pin=U1-34
+Added Pin To Net: NetName=SPIQ Pin=U3-2
+Added Net: Name=SPIQ
+Added Pin To Net: NetName=SPIWP Pin=U1-31
+Added Pin To Net: NetName=SPIWP Pin=U3-3
+Added Net: Name=SPIWP
+Added Pin To Net: NetName=TP_INT Pin=U??-10
+Added Net: Name=TP_INT
+Added Pin To Net: NetName=TP_RST Pin=U??-9
+Added Net: Name=TP_RST
+Added Pin To Net: NetName=USB_OTG_N Pin=U1-25
+Added Net: Name=USB_OTG_N
+Added Pin To Net: NetName=USB_OTG_P Pin=U1-26
+Added Net: Name=USB_OTG_P
+Added Pin To Net: NetName=VCC_3V3 Pin=C3-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C4-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C5-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C6-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C8-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C9-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=L1-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R2-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R3-2
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-20
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-46
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-55
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-56
+Added Pin To Net: NetName=VCC_3V3 Pin=U??-3
+Added Pin To Net: NetName=VCC_3V3 Pin=U??-4
+Added Pin To Net: NetName=VCC_3V3 Pin=U??-5
+Added Pin To Net: NetName=VCC_3V3 Pin=U??-11
+Added Net: Name=VCC_3V3
+Added Pin To Net: NetName=VDD_SPI Pin=C10-2
+Added Pin To Net: NetName=VDD_SPI Pin=U1-29
+Added Pin To Net: NetName=VDD_SPI Pin=U3-8
+Added Net: Name=VDD_SPI
+Added Pin To Net: NetName=XTAL_N Pin=C?-1
+Added Pin To Net: NetName=XTAL_N Pin=U1-53
+Added Pin To Net: NetName=XTAL_N Pin=X1-3
+Added Net: Name=XTAL_N
+Added Pin To Net: NetName=XTAL_P Pin=C?-2
+Added Pin To Net: NetName=XTAL_P Pin=U1-54
+Added Pin To Net: NetName=XTAL_P Pin=X1-1
+Added Net: Name=XTAL_P
+Added Class: Name=ESP32S3
+Added Class: Name=LCD
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

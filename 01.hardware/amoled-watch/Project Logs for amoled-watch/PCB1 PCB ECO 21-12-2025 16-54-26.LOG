@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=C?-1
+Removed Pin From Net: NetName=XTAL_N Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=C?-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=C?-2
+Removed Pin From Net: NetName=XTAL_P Pin=C?-2
+Change Component Comment : Designator=C? Old Comment=12pF New Comment=100nF
+Change Component Comment : Designator=C? Old Comment=12pF New Comment=100nF
+Change Component Comment : Designator=C? Old Comment=100nF New Comment=12pF
+Change Component Comment : Designator=C? Old Comment=100nF New Comment=12pF
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=XTAL_N Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=XTAL_P Pin=C?-2
+Added Pin To Net: NetName=TP_RST Pin=U1-18
+Added Pin To Net: NetName=TP_INT Pin=U1-19
+Added Pin To Net: NetName=LCD_CLK Pin=U1-27
+Added Pin To Net: NetName=LCD_DATA0 Pin=U1-37
+Added Pin To Net: NetName=LCD_DATA2 Pin=U1-43
+Added Pin To Net: NetName=LCD_DATA3 Pin=U1-44
+Added Pin To Net: NetName=LCD_CS Pin=U1-45
+Added Pin To Net: NetName=LCD_RST Pin=U1-47
+Added Pin To Net: NetName=LCD_DATA1 Pin=U1-51
+Added Pin To Net: NetName=I2C_SCL Pin=U1-7
+Added Pin To Net: NetName=I2C_SCL Pin=U??-7
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=U1-6
+Added Pin To Net: NetName=I2C_SDA Pin=U??-8
+Added Net: Name=I2C_SDA
+Added Member To Class: ClassName=ESP32S3 Member=Component C? 12pF
+Added Member To Class: ClassName=LCD Member=Component C? 100nF
