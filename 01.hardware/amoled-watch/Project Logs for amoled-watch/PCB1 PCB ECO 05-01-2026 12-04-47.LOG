@@ -1,0 +1,136 @@
+Removed Pin From Net: NetName=I2C_SDA Pin=U1-6
+Removed Pin From Net: NetName=I2C_SCL Pin=U1-7
+Removed Pin From Net: NetName=TP_RST Pin=U1-18
+Removed Pin From Net: NetName=TP_INT Pin=U1-19
+Removed Pin From Net: NetName=LCD_CLK Pin=U1-27
+Removed Pin From Net: NetName=LCD_DATA0 Pin=U1-37
+Removed Pin From Net: NetName=LCD_DATA2 Pin=U1-43
+Removed Pin From Net: NetName=LCD_DATA3 Pin=U1-44
+Removed Pin From Net: NetName=LCD_CS Pin=U1-45
+Removed Pin From Net: NetName=LCD_RST Pin=U1-47
+Removed Pin From Net: NetName=LCD_DATA1 Pin=U1-51
+Removed Member From Class: ClassName=LCD Member=U??
+Added Component: Designator=C?(C0603)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0603)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0603)
+Added Component: Designator=LED?(LED0603-BL)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=U?(QFN-40_L5.0-W5.0-P0.40-TL-EP3.4)
+Added Component: Designator=U?(IND-SMD_L2.5-W2.0_WPN252012H)
+Added Component: Designator=USB?(USB-C-SMD_TYPE-C-6PIN-2MD-073)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=VCC_3V3 Pin=U?-21
+Added Pin To Net: NetName=GND Pin=U?-41
+Added Pin To Net: NetName=GND Pin=USB?-1
+Added Pin To Net: NetName=GND Pin=USB?-12
+Added Pin To Net: NetName=GND Pin=USB?-13
+Added Pin To Net: NetName=GND Pin=USB?-13
+Added Pin To Net: NetName=GND Pin=USB?-14
+Added Pin To Net: NetName=GND Pin=USB?-14
+Added Pin To Net: NetName=ALDO1 Pin=C?-2
+Added Pin To Net: NetName=ALDO1 Pin=U?-18
+Added Net: Name=ALDO1
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Pin To Net: NetName=NetLED?_1 Pin=U?-1
+Added Net: Name=NetLED?_1
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Pin To Net: NetName=NetLED?_2 Pin=R?-2
+Added Net: Name=NetLED?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=USB?-4
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=USB?-10
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Pin To Net: NetName=NetU?_1 Pin=U?-22
+Added Net: Name=NetU?_1
+Added Pin To Net: NetName=PMIC_IRQ Pin=U?-38
+Added Net: Name=PMIC_IRQ
+Added Pin To Net: NetName=PMIC_PG Pin=R?-1
+Added Pin To Net: NetName=PMIC_PG Pin=U?-29
+Added Net: Name=PMIC_PG
+Added Pin To Net: NetName=PMIC_PWR_ON Pin=U?-30
+Added Net: Name=PMIC_PWR_ON
+Added Pin To Net: NetName=PMIC_TS Pin=R?-1
+Added Pin To Net: NetName=PMIC_TS Pin=U?-31
+Added Net: Name=PMIC_TS
+Add Net: Net with name "USB_OTG_N" already exists
+Add Net: Net with name "USB_OTG_P" already exists
+Added Pin To Net: NetName=VBAT Pin=C?-2
+Added Pin To Net: NetName=VBAT Pin=U?-33
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VBUS_5V Pin=C?-2
+Added Pin To Net: NetName=VBUS_5V Pin=U?-37
+Added Pin To Net: NetName=VBUS_5V Pin=USB?-2
+Added Pin To Net: NetName=VBUS_5V Pin=USB?-11
+Added Net: Name=VBUS_5V
+Added Pin To Net: NetName=VRTC Pin=C?-2
+Added Pin To Net: NetName=VRTC Pin=U?-28
+Added Net: Name=VRTC
+Added Pin To Net: NetName=VSYS_5V Pin=C?-2
+Added Pin To Net: NetName=VSYS_5V Pin=C?-2
+Added Pin To Net: NetName=VSYS_5V Pin=R?-1
+Added Pin To Net: NetName=VSYS_5V Pin=U?-17
+Added Pin To Net: NetName=VSYS_5V Pin=U?-23
+Added Pin To Net: NetName=VSYS_5V Pin=U?-34
+Added Pin To Net: NetName=VSYS_5V Pin=U?-36
+Added Net: Name=VSYS_5V
+Change Class Name : Old Net Name=LCD New Net Name=PMIC
+Added Class: Name=LCD
+Added Differential Pair: Name=USB_OTG
+Added Member To Class: ClassName=ESP32S3 Member=Component C? 12pF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 10uF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 2.2uF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 22uF
+Added Member To Class: ClassName=PMIC Member=Component C? 22uF
+Added Member To Class: ClassName=PMIC Member=Component LED? KT-0603B
+Added Member To Class: ClassName=PMIC Member=Component R? 0O
+Added Member To Class: ClassName=PMIC Member=Component R? 10kO
+Added Member To Class: ClassName=PMIC Member=Component R? 5.1kO
+Added Member To Class: ClassName=PMIC Member=Component R? 10kO
+Added Member To Class: ClassName=PMIC Member=Component R? 5.1kO
+Added Member To Class: ClassName=PMIC Member=Component U? AXP2101
+Added Member To Class: ClassName=PMIC Member=Component U? 1uH
+Added Member To Class: ClassName=PMIC Member=Component USB? TYPE-C 16PIN 2MD(073)
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

@@ -1,0 +1,116 @@
+Removed Member From Class: ClassName=Audio_MIC Member=U??
+Added Component: Designator=C?(C0402)
+Added Component: Designator=SW??(KEY-SMD_1TS003B)
+Add component (AddParameter): Name = "Symbol"; Value = "1TS003B-1400-3500A"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(KEY-SMD_1TS003B)
+Add component (AddParameter): Name = "Symbol"; Value = "1TS003B-1400-3500A"; VariantName = "[No Variations]"
+Added Component: Designator=U??(FBGA-153_L13.0-W11.5-P0.50_KLMAG1JETD-B041)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "configuration"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Controller Operating Voltage (VCCQ)"; Value = "2.7V~3.6V;1.7V~1.95V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/KLM8G1GETF-B041/512098.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "KLM8G1GETF-B041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "eMMC 5.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "KLM8G1GETF-B041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "KLM8G1GETF-B041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "8GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NAND Operating Voltage (VCCF)"; Value = "2.7V~3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-25?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Random Read/Write (IOPS)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reading Speed in Sequence"; Value = "330MB/S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sequential Read/Write (MB/s)"; Value = "330/50 MB/s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "FBGA-153(11.5x13)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C499918"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KLM8G1GETF-B041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2.7V~3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Writing Speed in Sequence"; Value = "50MB/S"; VariantName = "[No Variations]"
+Added Component: Designator=U??(LGA-14_L3.0-W2.5-P0.50-BR)
+Add component (AddParameter): Name = "Symbol"; Value = "QMI8658C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=U??-1
+Added Pin To Net: NetName=GND Pin=U??-6
+Added Pin To Net: NetName=GND Pin=U??-7
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "USB_OTG_N" already exists
+Add Net: Net with name "USB_OTG_P" already exists
+Add Net: Net with name "VCC_3V3" already exists
+Add Net: Net with name "VCCA_3V3" already exists
+Change Class Name : Old Net Name=Audio_MIC New Net Name=PMIC
+Change Class Name : Old Net Name=LCD New Net Name=Audio_MIC
+Added Class: Name=GPIO
+Added Class: Name=LCD
+Added Class: Name=Sensor
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 2.2uF
+Added Member To Class: ClassName=PMIC Member=Component C? 10uF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 22uF
+Added Member To Class: ClassName=PMIC Member=Component C? 22uF
+Added Member To Class: ClassName=ESP32S3 Member=Component C? 12pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 10pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 10uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 33pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 30pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 10uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 30pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 10uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component LED? KT-0603B
+Added Member To Class: ClassName=PMIC Member=Component R? 5.1kO
+Added Member To Class: ClassName=PMIC Member=Component R? 5.1kO
+Added Member To Class: ClassName=PMIC Member=Component R? 10kO
+Added Member To Class: ClassName=PMIC Member=Component R? 10kO
+Added Member To Class: ClassName=Audio_MIC Member=Component R? 150kO
+Added Member To Class: ClassName=Audio_MIC Member=Component R? 10kO
+Added Member To Class: ClassName=Audio_MIC Member=Component R? 0O
+Added Member To Class: ClassName=Audio_MIC Member=Component R? 150kO
+Added Member To Class: ClassName=Audio_MIC Member=Component R? 0O
+Added Member To Class: ClassName=Audio_MIC Member=Component R? 10kO
+Added Member To Class: ClassName=Audio_MIC Member=Component U?? ES8311
+Added Member To Class: ClassName=Audio_MIC Member=Component U?? NS4150
+Added Member To Class: ClassName=PMIC Member=Component U? 1uH
+Added Member To Class: ClassName=PMIC Member=Component U? AXP2101
+Added Member To Class: ClassName=PMIC Member=Component USB? TYPE-C 16PIN 2MD(073)

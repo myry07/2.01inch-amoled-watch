@@ -1,0 +1,83 @@
+Added Component: Designator=C66(C0603)
+Added Component: Designator=C67(C0603)
+Added Component: Designator=C68(C0402)
+Added Component: Designator=C69(C0402)
+Added Component: Designator=C70(C0402)
+Added Component: Designator=C71(C0402)
+Added Component: Designator=C72(C0402)
+Added Component: Designator=C73(C0402)
+Added Component: Designator=C74(C0402)
+Added Component: Designator=C75(C0603)
+Added Component: Designator=C76(C0402)
+Added Component: Designator=R26(R0402)
+Added Component: Designator=U12(QFN-16_L3.0-W3.0-P0.50-TL-EP1.9)
+Add component (AddParameter): Name = "Symbol"; Value = "NU1680"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCCA_3V3 Pin=C39-2
+Added Pin To Net: NetName=VCCA_3V3 Pin=C45-1
+Added Pin To Net: NetName=VCCA_3V3 Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C67-1
+Added Pin To Net: NetName=VBUS_5V Pin=C67-2
+Added Pin To Net: NetName=GND Pin=C69-1
+Added Pin To Net: NetName=GND Pin=C75-2
+Added Pin To Net: NetName=GND Pin=C76-2
+Added Pin To Net: NetName=VCCA_3V3 Pin=U7-11
+Added Pin To Net: NetName=VCCA_3V3 Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U12-8
+Added Pin To Net: NetName=VBUS_5V Pin=U12-14
+Added Pin To Net: NetName=GND Pin=U12-17
+Added Pin To Net: NetName=COIL+ Pin=C68-2
+Added Pin To Net: NetName=COIL+ Pin=C70-2
+Added Pin To Net: NetName=COIL+ Pin=C72-2
+Added Net: Name=COIL+
+Added Pin To Net: NetName=COIL- Pin=C73-1
+Added Pin To Net: NetName=COIL- Pin=C74-1
+Added Pin To Net: NetName=COIL- Pin=U12-5
+Added Net: Name=COIL-
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Added Pin To Net: NetName=NetC68_1 Pin=C68-1
+Added Pin To Net: NetName=NetC68_1 Pin=C70-1
+Added Pin To Net: NetName=NetC68_1 Pin=C71-2
+Added Pin To Net: NetName=NetC68_1 Pin=C72-1
+Added Pin To Net: NetName=NetC68_1 Pin=C73-2
+Added Pin To Net: NetName=NetC68_1 Pin=U12-16
+Added Net: Name=NetC68_1
+Added Pin To Net: NetName=NetC69_2 Pin=C69-2
+Added Pin To Net: NetName=NetC69_2 Pin=U12-13
+Added Net: Name=NetC69_2
+Added Pin To Net: NetName=NetC71_1 Pin=C71-1
+Added Pin To Net: NetName=NetC71_1 Pin=U12-2
+Added Net: Name=NetC71_1
+Added Pin To Net: NetName=NetC74_2 Pin=C74-2
+Added Pin To Net: NetName=NetC74_2 Pin=U12-3
+Added Net: Name=NetC74_2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=U12-7
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NU1680_VRECT Pin=C66-1
+Added Pin To Net: NetName=NU1680_VRECT Pin=C75-1
+Added Pin To Net: NetName=NU1680_VRECT Pin=C76-1
+Added Pin To Net: NetName=NU1680_VRECT Pin=R26-1
+Added Pin To Net: NetName=NU1680_VRECT Pin=U12-6
+Added Pin To Net: NetName=NU1680_VRECT Pin=U12-15
+Added Net: Name=NU1680_VRECT
+Add Net: Net with name "USB_OTG_N" already exists
+Add Net: Net with name "USB_OTG_P" already exists
+Add Net: Net with name "VCC_3V3" already exists
+Change Class Name : Old Net Name=PMIC New Net Name=POWER
+Added Member To Class: ClassName=POWER Member=Component C66 10uF
+Added Member To Class: ClassName=POWER Member=Component C67 10uF
+Added Member To Class: ClassName=POWER Member=Component C68 100nF
+Added Member To Class: ClassName=POWER Member=Component C69 1uF
+Added Member To Class: ClassName=POWER Member=Component C70 47nF
+Added Member To Class: ClassName=POWER Member=Component C71 47nF
+Added Member To Class: ClassName=POWER Member=Component C72 33nF
+Added Member To Class: ClassName=POWER Member=Component C73 2.2nF
+Added Member To Class: ClassName=POWER Member=Component C74 47nF
+Added Member To Class: ClassName=POWER Member=Component C75 10uF
+Added Member To Class: ClassName=POWER Member=Component C76 100nF
+Added Member To Class: ClassName=POWER Member=Component R26 220O
+Added Member To Class: ClassName=POWER Member=Component U12 NU1680

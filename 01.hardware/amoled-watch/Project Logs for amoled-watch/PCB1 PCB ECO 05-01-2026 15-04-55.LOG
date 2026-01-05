@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=MIC_N Pin=C32-2
+Removed Pin From Net: NetName=MIC_N Pin=C35-1
+Removed Pin From Net: NetName=MIC_N Pin=C41-1
+Change Net Name : Old Net Name=MIC_N New Net Name=MIC_P
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Added Pin To Net: NetName=MIC_N Pin=C32-2
+Added Pin To Net: NetName=MIC_N Pin=C35-1
+Added Pin To Net: NetName=MIC_N Pin=C41-1
+Added Net: Name=MIC_N
+Add Net: Net with name "USB_OTG_N" already exists
+Add Net: Net with name "USB_OTG_P" already exists
+Add Net: Net with name "VCC_3V3" already exists
+Add Net: Net with name "VCCA_3V3" already exists

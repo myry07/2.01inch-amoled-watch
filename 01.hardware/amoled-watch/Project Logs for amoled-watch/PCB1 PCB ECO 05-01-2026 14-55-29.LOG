@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=Audio_MIC Member=R5
+Removed Member From Class: ClassName=Sensor Member=U7
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Add Net: Net with name "USB_OTG_N" already exists
+Add Net: Net with name "USB_OTG_P" already exists
+Add Net: Net with name "VCC_3V3" already exists
+Add Net: Net with name "VCCA_3V3" already exists
+Added Member To Class: ClassName=PMIC Member=Component C17 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component R14 150kO
+Added Member To Class: ClassName=PMIC Member=Component U5 1uH
+Added Member To Class: ClassName=Sensor Member=Component U11 KLM8G1GETF-B041

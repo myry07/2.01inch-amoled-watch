@@ -1,0 +1,287 @@
+Removed Member From Class: ClassName=Audio_MIC Member=C?
+Removed Member From Class: ClassName=ESP32S3 Member=C?
+Removed Member From Class: ClassName=LCD Member=C?
+Removed Member From Class: ClassName=Sensor Member=C?
+Removed Member From Class: ClassName=PMIC Member=R?
+Removed Member From Class: ClassName=Audio_MIC Member=U??
+Removed Member From Class: ClassName=LCD Member=U??
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=C? NewDesignator=C33
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Change Component Designator: OldDesignator=C? NewDesignator=C44
+Change Component Designator: OldDesignator=C? NewDesignator=C45
+Change Component Designator: OldDesignator=C? NewDesignator=C46
+Change Component Designator: OldDesignator=C? NewDesignator=C47
+Change Component Designator: OldDesignator=C? NewDesignator=C48
+Change Component Designator: OldDesignator=C? NewDesignator=C49
+Change Component Designator: OldDesignator=C? NewDesignator=C50
+Change Component Designator: OldDesignator=C? NewDesignator=C51
+Change Component Designator: OldDesignator=C? NewDesignator=C52
+Change Component Designator: OldDesignator=C? NewDesignator=C53
+Change Component Designator: OldDesignator=C? NewDesignator=C54
+Change Component Designator: OldDesignator=C? NewDesignator=C55
+Change Component Designator: OldDesignator=C? NewDesignator=C65
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Component Designator: OldDesignator=SW?? NewDesignator=SW1
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U?? NewDesignator=U6
+Change Component Designator: OldDesignator=U?? NewDesignator=U7
+Change Component Designator: OldDesignator=U?? NewDesignator=U8
+Change Component Designator: OldDesignator=U?? NewDesignator=U9
+Change Component Designator: OldDesignator=U?? NewDesignator=U10
+Change Component Designator: OldDesignator=U?? NewDesignator=U11
+Change Component Designator: OldDesignator=USB? NewDesignator=USB1
+Added Component: Designator=C56(C0402)
+Added Component: Designator=C57(C0402)
+Added Component: Designator=C58(C0402)
+Added Component: Designator=C59(C0402)
+Added Component: Designator=C60(C0402)
+Added Component: Designator=C61(C0402)
+Added Component: Designator=C62(C0402)
+Added Component: Designator=C63(C0402)
+Added Component: Designator=C64(C0402)
+Added Component: Designator=R15(R0402)
+Added Component: Designator=R16(R0402)
+Added Component: Designator=R17(R0402)
+Added Component: Designator=R18(R0402)
+Added Component: Designator=R19(R0402)
+Added Component: Designator=R20(R0402)
+Added Component: Designator=R21(R0402)
+Added Component: Designator=R22(R0402)
+Added Component: Designator=R23(R0402)
+Added Component: Designator=R24(R0402)
+Added Component: Designator=R25(R0402)
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C58-1
+Added Pin To Net: NetName=GND Pin=C59-1
+Added Pin To Net: NetName=GND Pin=C60-1
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=GND Pin=C64-1
+Added Pin To Net: NetName=GND Pin=U11-A6
+Added Pin To Net: NetName=GND Pin=U11-C4
+Added Pin To Net: NetName=GND Pin=U11-E7
+Added Pin To Net: NetName=GND Pin=U11-G5
+Added Pin To Net: NetName=GND Pin=U11-H10
+Added Pin To Net: NetName=GND Pin=U11-J5
+Added Pin To Net: NetName=GND Pin=U11-K8
+Added Pin To Net: NetName=GND Pin=U11-N2
+Added Pin To Net: NetName=GND Pin=U11-N5
+Added Pin To Net: NetName=GND Pin=U11-P4
+Added Pin To Net: NetName=GND Pin=U11-P6
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC28_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetLED?_2 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetU?_1 New Net Name=NetU4_22
+Add Net: Net with name "EN" already exists
+Add Net: Net with name "I2C_SCL" already exists
+Add Net: Net with name "I2C_SDA" already exists
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_1 Pin=U7-16
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_1 Pin=U7-14
+Added Net: Name=NetC29_1
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_1 Pin=U7-18
+Added Net: Name=NetC31_1
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=NetC32_1 Pin=U7-17
+Added Net: Name=NetC32_1
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_1 Pin=C42-2
+Added Pin To Net: NetName=NetC33_1 Pin=U7-13
+Added Net: Name=NetC33_1
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=NetC38_1 Pin=C43-2
+Added Pin To Net: NetName=NetC38_1 Pin=U7-12
+Added Net: Name=NetC38_1
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=NetC44_1 Pin=C47-1
+Added Pin To Net: NetName=NetC44_1 Pin=U8-4
+Added Net: Name=NetC44_1
+Added Pin To Net: NetName=NetC49_1 Pin=C49-1
+Added Pin To Net: NetName=NetC49_1 Pin=R13-1
+Added Net: Name=NetC49_1
+Added Pin To Net: NetName=NetC53_1 Pin=C53-1
+Added Pin To Net: NetName=NetC53_1 Pin=R14-1
+Added Net: Name=NetC53_1
+Added Pin To Net: NetName=NetC55_2 Pin=C55-2
+Added Pin To Net: NetName=NetC55_2 Pin=U9-2
+Added Net: Name=NetC55_2
+Added Pin To Net: NetName=NetC56_1 Pin=C56-1
+Added Pin To Net: NetName=NetC56_1 Pin=U11-C2
+Added Net: Name=NetC56_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U7-20
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R12-2
+Added Pin To Net: NetName=NetR11_1 Pin=U9-1
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=U11-K5
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=U11-B6
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U11-B5
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=U11-B4
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U11-B3
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=U11-B2
+Added Net: Name=NetR20_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=U11-A5
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=U11-A4
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=U11-A3
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=U11-M5
+Added Net: Name=NetR24_1
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=U11-M6
+Added Net: Name=NetR25_1
+Add Net: Net with name "USB_OTG_N" already exists
+Add Net: Net with name "USB_OTG_P" already exists
+Add Net: Net with name "VCC_3V3" already exists
+Add Net: Net with name "VCCA_3V3" already exists
+Added Member To Class: ClassName=ESP32S3 Member=Component C11 12pF
+Added Member To Class: ClassName=ESP32S3 Member=Component C12 12pF
+Added Member To Class: ClassName=PMIC Member=Component C13 1uF
+Added Member To Class: ClassName=PMIC Member=Component C14 10uF
+Added Member To Class: ClassName=PMIC Member=Component C15 1uF
+Added Member To Class: ClassName=PMIC Member=Component C16 1uF
+Added Member To Class: ClassName=PMIC Member=Component C18 2.2uF
+Added Member To Class: ClassName=PMIC Member=Component C19 1uF
+Added Member To Class: ClassName=PMIC Member=Component C20 22uF
+Added Member To Class: ClassName=PMIC Member=Component C21 22uF
+Added Member To Class: ClassName=PMIC Member=Component C22 100nF
+Added Member To Class: ClassName=LCD Member=Component C23 100nF
+Added Member To Class: ClassName=LCD Member=Component C24 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C25 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C26 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C27 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C28 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C29 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C30 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C31 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C32 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C33 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C34 30pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C35 30pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C36 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C37 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C38 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C39 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C40 10pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C41 10pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C42 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C43 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C44 10uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C45 10uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C46 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C47 33pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C48 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C49 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C50 10uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C51 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C52 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C53 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C54 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C55 1uF
+Added Member To Class: ClassName=Sensor Member=Component C56 1uF
+Added Member To Class: ClassName=Sensor Member=Component C57 100nF
+Added Member To Class: ClassName=Sensor Member=Component C58 100nF
+Added Member To Class: ClassName=Sensor Member=Component C59 4.7uF
+Added Member To Class: ClassName=Sensor Member=Component C60 100nF
+Added Member To Class: ClassName=Sensor Member=Component C61 100nF
+Added Member To Class: ClassName=Sensor Member=Component C62 4.7uF
+Added Member To Class: ClassName=Sensor Member=Component C63 100nF
+Added Member To Class: ClassName=Sensor Member=Component C64 100nF
+Added Member To Class: ClassName=Sensor Member=Component C65 100nF
+Added Member To Class: ClassName=PMIC Member=Component R4 5.1kO
+Added Member To Class: ClassName=PMIC Member=Component R5 10kO
+Added Member To Class: ClassName=PMIC Member=Component R6 5.1kO
+Added Member To Class: ClassName=PMIC Member=Component R7 10kO
+Added Member To Class: ClassName=PMIC Member=Component R8 0O
+Added Member To Class: ClassName=Audio_MIC Member=Component R9 10kO
+Added Member To Class: ClassName=Audio_MIC Member=Component R10 0O
+Added Member To Class: ClassName=Audio_MIC Member=Component R11 10kO
+Added Member To Class: ClassName=Audio_MIC Member=Component R12 0O
+Added Member To Class: ClassName=Audio_MIC Member=Component R13 150kO
+Added Member To Class: ClassName=Sensor Member=Component R15 4.7kO
+Added Member To Class: ClassName=Sensor Member=Component R16 10kO
+Added Member To Class: ClassName=Sensor Member=Component R17 10kO
+Added Member To Class: ClassName=Sensor Member=Component R18 10kO
+Added Member To Class: ClassName=Sensor Member=Component R19 10kO
+Added Member To Class: ClassName=Sensor Member=Component R20 10kO
+Added Member To Class: ClassName=Sensor Member=Component R21 10kO
+Added Member To Class: ClassName=Sensor Member=Component R22 10kO
+Added Member To Class: ClassName=Sensor Member=Component R23 10kO
+Added Member To Class: ClassName=Sensor Member=Component R24 10kO
+Added Member To Class: ClassName=Sensor Member=Component R25 10kO
+Added Member To Class: ClassName=PMIC Member=Component U4 AXP2101
+Added Member To Class: ClassName=LCD Member=Component U6 OK-14GF024-04_2.1INCH_1
+Added Member To Class: ClassName=Audio_MIC Member=Component U7 ES8311
+Added Member To Class: ClassName=Audio_MIC Member=Component U8 MSM421AKT002
+Added Member To Class: ClassName=Audio_MIC Member=Component U9 NS4150
+Added Member To Class: ClassName=Sensor Member=Component U10 QMI8658C

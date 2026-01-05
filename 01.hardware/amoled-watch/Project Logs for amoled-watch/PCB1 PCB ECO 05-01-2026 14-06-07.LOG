@@ -1,0 +1,207 @@
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0603)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0603)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0603)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=C?(C0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=U??(WQFN-20_L3.0-W3.0-P0.40-BL-EP1.7)
+Add component (AddParameter): Name = "Symbol"; Value = "ES8311"; VariantName = "[No Variations]"
+Added Component: Designator=U??(MSOP-8_L3.0-W3.0-P0.65-LS5.0-BL)
+Add component (AddParameter): Name = "Symbol"; Value = "NS4150"; VariantName = "[No Variations]"
+Added Component: Designator=U??(LGA-4_L3.8-W3.0-P2.46-TR)
+Add component (AddParameter): Name = "Symbol"; Value = "MSM421AKT002"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-1
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC_3V3 Pin=C?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=I2C_SCL Pin=U?-39
+Added Pin To Net: NetName=I2C_SDA Pin=U?-40
+Added Pin To Net: NetName=I2C_SCL Pin=U??-1
+Added Pin To Net: NetName=VCC_3V3 Pin=U??-3
+Added Pin To Net: NetName=VCC_3V3 Pin=U??-4
+Added Pin To Net: NetName=VCC_3V3 Pin=U??-6
+Added Pin To Net: NetName=I2C_SDA Pin=U??-19
+Change Net Name : Old Net Name=ALDO1 New Net Name=VCCA_3V3
+Added Pin To Net: NetName=AGND Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=C?-1
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=C?-2
+Added Pin To Net: NetName=AGND Pin=R?-1
+Added Pin To Net: NetName=AGND Pin=R?-2
+Added Pin To Net: NetName=AGND Pin=R?-2
+Added Pin To Net: NetName=AGND Pin=U??-2
+Added Pin To Net: NetName=AGND Pin=U??-3
+Added Pin To Net: NetName=AGND Pin=U??-5
+Added Pin To Net: NetName=AGND Pin=U??-7
+Added Pin To Net: NetName=AGND Pin=U??-10
+Added Pin To Net: NetName=AGND Pin=U??-21
+Added Net: Name=AGND
+Add Net: Net with name "EN" already exists
+Added Pin To Net: NetName=I2S_ASDOUT Pin=U??-7
+Added Net: Name=I2S_ASDOUT
+Added Pin To Net: NetName=I2S_DSDIN Pin=U??-9
+Added Net: Name=I2S_DSDIN
+Added Pin To Net: NetName=I2S_LRCK Pin=C?-1
+Added Pin To Net: NetName=I2S_LRCK Pin=U??-8
+Added Net: Name=I2S_LRCK
+Added Pin To Net: NetName=I2S_MCLK Pin=C?-1
+Added Pin To Net: NetName=I2S_MCLK Pin=U??-2
+Added Net: Name=I2S_MCLK
+Added Pin To Net: NetName=I2S_SCLK Pin=C?-1
+Added Pin To Net: NetName=I2S_SCLK Pin=U??-6
+Added Net: Name=I2S_SCLK
+Added Pin To Net: NetName=MIC_N Pin=C?-1
+Added Pin To Net: NetName=MIC_N Pin=C?-1
+Added Pin To Net: NetName=MIC_N Pin=C?-1
+Added Pin To Net: NetName=MIC_N Pin=C?-1
+Added Pin To Net: NetName=MIC_N Pin=C?-2
+Added Pin To Net: NetName=MIC_N Pin=C?-2
+Added Pin To Net: NetName=MIC_N Pin=C?-2
+Added Net: Name=MIC_N
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U??-15
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=OUTN Pin=C?-2
+Added Pin To Net: NetName=OUTN Pin=C?-2
+Added Pin To Net: NetName=OUTN Pin=C?-2
+Added Net: Name=OUTN
+Added Pin To Net: NetName=OUTP Pin=C?-1
+Added Pin To Net: NetName=OUTP Pin=C?-2
+Added Pin To Net: NetName=OUTP Pin=C?-2
+Added Net: Name=OUTP
+Added Pin To Net: NetName=PA_CTRL Pin=R?-1
+Added Net: Name=PA_CTRL
+Added Pin To Net: NetName=PA_INL+ Pin=R?-2
+Added Pin To Net: NetName=PA_INL+ Pin=U??-3
+Added Net: Name=PA_INL+
+Added Pin To Net: NetName=PA_INL- Pin=R?-2
+Added Pin To Net: NetName=PA_INL- Pin=U??-4
+Added Net: Name=PA_INL-
+Added Pin To Net: NetName=PA_OUT+ Pin=U??-8
+Added Net: Name=PA_OUT+
+Added Pin To Net: NetName=PA_OUT- Pin=U??-5
+Added Net: Name=PA_OUT-
+Add Net: Net with name "USB_OTG_N" already exists
+Add Net: Net with name "USB_OTG_P" already exists
+Add Net: Net with name "VCCA_3V3" already exists
+Change Class Name : Old Net Name=LCD New Net Name=Audio_MIC
+Added Class: Name=LCD
+Added Member To Class: ClassName=ESP32S3 Member=Component C? 12pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 10uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 33pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 10uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 30pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 30pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 10pF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 10uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 100nF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component C? 22pF
+Added Member To Class: ClassName=PMIC Member=Component C? 22uF
+Added Member To Class: ClassName=PMIC Member=Component C? 10uF
+Added Member To Class: ClassName=PMIC Member=Component C? 22uF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=PMIC Member=Component C? 2.2uF
+Added Member To Class: ClassName=PMIC Member=Component C? 1uF
+Added Member To Class: ClassName=Audio_MIC Member=Component R? 10kO
+Added Member To Class: ClassName=Audio_MIC Member=Component R? 10kO
+Added Member To Class: ClassName=Audio_MIC Member=Component R? 0O
+Added Member To Class: ClassName=Audio_MIC Member=Component R? 150kO
+Added Member To Class: ClassName=Audio_MIC Member=Component R? 150kO
+Added Member To Class: ClassName=Audio_MIC Member=Component R? 0O
+Added Member To Class: ClassName=PMIC Member=Component R? 10kO
+Added Member To Class: ClassName=PMIC Member=Component R? 5.1kO
+Added Member To Class: ClassName=PMIC Member=Component R? 10kO
+Added Member To Class: ClassName=PMIC Member=Component R? 5.1kO
+Added Member To Class: ClassName=Audio_MIC Member=Component U?? ES8311
+Added Member To Class: ClassName=Audio_MIC Member=Component U?? NS4150
+Added Member To Class: ClassName=PMIC Member=Component U? AXP2101
+Added Rule: Name=Schematic Supply Nets_5
